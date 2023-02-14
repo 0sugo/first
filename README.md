@@ -4,10 +4,7 @@
 
 # Project Description
 
-> This project is about setting up a Hello Microverse <
-
-# Screenshot
- [screenshot](./photos/shot.png)
+> This project is about setting up a Hello Microverse page <
 
 
 ## Built with
