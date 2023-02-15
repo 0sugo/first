@@ -8,8 +8,6 @@ HOW TO USE:
 REQUIRED SECTIONS:
 - Table of Contents
 - About the Project
-  - Built With
-  - Live Demo
 - Getting Started
 - Authors
 - Future Features
@@ -54,7 +52,8 @@ OPTIONAL SECTIONS:
 
 **[Hello Microverse Project]** This is a simple project that displays "hello microverse".Its a true reflection of skills I have acquired from microverse so far.
 ## 🛠 Built With <a name="built-with"></a>
-
+- HTML.
+- CSS.
 
 <!-- GETTING STARTED -->
 
@@ -64,23 +63,26 @@ OPTIONAL SECTIONS:
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
-
 In order to run this project you need:
-Active IDE
-GIT and GITHUB
+- vscode.
+- git.
+- set up an index.html document.
 
 ### Setup
+Clone this repository to your desired folder:
 
+Navigate to the  directory where you  want to clone this project in your computer.
 Clone this repository to your desired folder:git clone git@github.com:0sugo/first.git
 
-### Install
 
-cd first
-open the project with your local IDE
+### Install
+Install this project with this command:
+`$ npm install`
+
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command by opening the vscode with the command `code .`
 
 ### Run tests
 
@@ -106,10 +108,9 @@ Run it in your local server
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Local Host]**
-- [ ] **[Web browser access]**
+
+- Setting Up A Professional Github Repository.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,7 +130,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-This is a starting point for a developer that has been in the dark.Stay tuned for more.Its the little steps that matter.
+If you like this project, give it a star .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +139,7 @@ This is a starting point for a developer that has been in the dark.Stay tuned fo
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank microverse for giving me an opportunity to pursue what I want.
+I would like to thank microverse for issuing the project to the students.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
